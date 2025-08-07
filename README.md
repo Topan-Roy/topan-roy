@@ -7,10 +7,11 @@
 <h1 align="center"> About Me </h1>
 
 <h4 align="center">
-Hello 👋, I’m <strong>Topan Roy 😊</strong>  
-I love working with JavaScript and I’m skilled in the <strong>MERN Stack</strong>.  
-I have a strong passion for learning and implementing new web technologies.  
-I’m currently studying <strong>Diploma in Computer Engineering 💻</strong> in Dinajpur, Bangladesh.
+Hello 👋, I’m **Topan Roy** 😊  
+I love building things with **JavaScript** and I’m skilled in the **MERN Stack** (MongoDB, Express, React, Node.js).  
+I have a strong passion for learning and applying modern web technologies and industry standards.  
+Currently, I’m studying **Diploma in Computer Engineering 💻** in **Dinajpur, Bangladesh**.
+
 </h4>
 
 ---
