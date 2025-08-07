@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello👋%2C+I'm+Topan+Roy...;A+MERN+%26+PREN+stack+developer...;I+am+Full+stack+developer..)](https://git.io/typing-svg)
 
 <a href="https://www.facebook.com/TopanRoy41105/">
-  <img src="banner.png" width="100%" height="100%" />
+  <img src="[banner.png](https://i.ibb.co.com/vxbLPQ4S/IMG-20230528-230617-100.jpg)" width="100%" height="100%" />
 </a>
 
 <h1 align="center"> About Me </h1>
@@ -41,7 +41,7 @@ I’m currently studying <strong>Diploma in Computer Engineering 💻</strong> i
 
 ---
 
-<img align="right" alt="coding" height="300" src="images/coding.png">
+<img align="right" alt="coding" height="300" src="[images/coding.png](https://i.ibb.co.com/Y7pjszNh/img.png)">
 
 - 🔭 I’m currently working on **React.js, Next.js, TypeScript**  
 - 🌱 Currently learning **MySQL**  
