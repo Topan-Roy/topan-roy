@@ -1,83 +1,108 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello👋%2C+I'm+Hridoy+Chandra+Roy...;A+MERN+%26+PREN+stack+developer...;I+am+Full+stack+developer..)](https://git.io/typing-svg)
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello👋%2C+I'm+Topan+Roy...;A+MERN+%26+PREN+Stack+Developer...;I+am+a+Full+Stack+Developer..)](https://git.io/typing-svg)
 
-<a href="https://www.facebook.com/hridayray.hriday.1/">
-<img src="https://i.ibb.co.com/Zpyqn7G4/Blue-and-White-Banner-3.png" width="100%" hight="100%" />
+<!-- Optional Banner (You can update image URL or remove this) -->
+<a href="https://www.facebook.com/TopanRoy41105/">
+  <img src="https://i.ibb.co.com/Zpyqn7G4/Blue-and-White-Banner-3.png" width="100%" />
 </a>
+
+<!-- About Me -->
 <h1 align="center"> About Me </h1>
+<h4 align="center">
 
-<h4>
-
-Hello 👋, I’m Hridoy 😊, .I love to do most of the things with javaScript.I am Skilled At MERN Stack. I have a strong passion
-for learning & implementing new web technologies and standards. I’m currently studying (Diploma in computer Engineering 💻 ) , Dinajpur Bangladesh.
+Hello 👋, I’m <strong>Topan Roy 😊</strong>.  
+I love working with JavaScript and I’m skilled at the <strong>MERN Stack</strong>.  
+Currently studying <strong>Diploma in Computer Engineering</strong> 💻 from Bangladesh.  
+I’m passionate about learning and implementing new web technologies and standards.
 
 </h4>
 
- <h1 align="center"> Current GitHub Stats ⚡</h1>
-<br>
-<p align=center>
-  <div align=center>
-      <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=hridayroy19&theme=react&border=61dafb&hide_border=true" alt="hriody" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=hridayroy19&show_icons=true&locale=en&theme=tokyonight" alt="hriday" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hridayroy19&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-    </a>
-  </div>
-  <br>
+---
 
- <h1  align="center"> 🛜 Socials  </h1>
-<br /> 
+<!-- GitHub Stats -->
+<h1 align="center">⚡ My GitHub Stats</h1>
 
-[<p align="center"><img height="58" src="https://raw.githubusercontent.com/hridayroy19/hridayroy19/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/hridoy-chandra-roy-9313732a4/)[<img height="58" src="https://raw.githubusercontent.com/hridayroy19/hridayroy19/main/images/icons/Facebook.png">](https://www.facebook.com/hridayray.hriday.1/)[<img height="58" src="https://raw.githubusercontent.com/hridayroy19/hridayroy19/main/images/icons/Twitter.png"> </p>](https://www.instagram.com/hridayrayhriday/)
+<p align="center">
+  <img width="47%" src="https://streak-stats.demolab.com/?user=topanroy&theme=react&border=61dafb&hide_border=true" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=topanroy&show_icons=true&locale=en&theme=tokyonight" />
+</p>
 
-<br />
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=topanroy&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<!-- Tech Stack -->
 <h1 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40" />
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40" />
   &nbsp;Tech Stack
 </h1>
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/shadcn-FF4500?style=for-the-badge&logo=shadcn&logoColor=white)
-![Ant Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
-![Brave](https://img.shields.io/badge/Brave_Browser-FB542B?style=for-the-badge&logo=brave&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-<br/>
-<br/>
+<p align="center">
+
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/shadcn-FF4500?style=for-the-badge&logo=shadcn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Brave_Browser-FB542B?style=for-the-badge&logo=brave&logoColor=white"/>
+</p>
+
+---
+
+<!-- Contact & Fun Info -->
 <img align="right" alt="coding" height="320" src="https://i.ibb.co.com/NdV6GsJp/04c5333de27fa3c5ca0282dd241c0922-removebg-preview.png">
 
-- 🔭 I’m currently working on *React.js, Next.js, Typescript*
+- 🔭 I’m currently working on **React.js, Next.js, TypeScript**  
+- 🌱 Currently learning **MySQL**  
+- 👯 Looking to collaborate on **GitHub Projects**  
+- 💬 Ask me about: **Express.js, TypeScript, Next.js**  
+- 📫 How to reach me: **roytopan734@gmail.com**  
+- ⚡ Fun fact: *I love coding and cricket — sometimes I hit bugs, sometimes I hit sixes... and sometimes I bowl both! 🏏💻*  
 
-- 🌱 I’m currently My Sql.
+---
 
-- 👯 I’m looking to collaborate on *GitHub*
+<!-- Social Links -->
+<h1 align="center">🛜 Let's Connect</h1>
 
-- 💬 Ask me about *express.js, typescript, next.js*
-  
-- 📫 How to reach me: hrhridoyroy503@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/topanroy/">
+    <img src="https://raw.githubusercontent.com/hridayroy19/hridayroy19/main/images/icons/Linkedin.png" height="50" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/TopanRoy41105/">
+    <img src="https://raw.githubusercontent.com/hridayroy19/hridayroy19/main/images/icons/Facebook.png" height="50" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/topan_roy41105/?igsh=dWdpYmUxcDNuZnhz#">
+    <img src="https://raw.githubusercontent.com/hridayroy19/hridayroy19/main/images/icons/Twitter.png" height="50" />
+  </a>
+</p>
 
-- ⚡ Fun fact: I love coding and cricket — sometimes I hit bugs, sometimes I hit sixes... and sometimes I bowl both! 😄🏏💻
+---
 
-
-<br />
+<!-- Profile Summary Card -->
 <div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hridayroy19&theme=react"/></div>
-<br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=topanroy&theme=react"/>
+</div>
