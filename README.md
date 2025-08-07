@@ -30,11 +30,11 @@ I’m currently studying <strong>Diploma in Computer Engineering 💻</strong> i
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/shadcn-FF4500?style=for-the-badge&logo=shadcn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white"/>
+ 
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/Brave_Browser-FB542B?style=for-the-badge&logo=brave&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
@@ -62,10 +62,7 @@ I’m currently studying <strong>Diploma in Computer Engineering 💻</strong> i
   <a href="https://www.facebook.com/TopanRoy41105/">
     <img src="Facebook.png" height="50" />
   </a>
-  &nbsp;
-  <a href="https://www.instagram.com/topan_roy41105/?igsh=dWdpYmUxcDNuZnhz#">
-    <img src="Instagram.png" height="50" />
-  </a>
+ 
 </p>
 
 ---
