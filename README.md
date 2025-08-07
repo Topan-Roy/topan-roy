@@ -13,7 +13,22 @@ I have a strong passion for learning and implementing new web technologies.
 I’m currently studying <strong>Diploma in Computer Engineering 💻</strong> in Dinajpur, Bangladesh.
 </h4>
 
+---
 
+ <h1  align="center"> 🛜 Socials  </h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/topanroy/">
+    <img src="Linkedin.png" height="50" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/TopanRoy41105/">
+    <img src="Facebook.png" height="50" />
+  </a>
+ 
+</p>
+
+---
 
 <h1 align="center">🚀 Tech Stack</h1>
 
@@ -45,27 +60,12 @@ I’m currently studying <strong>Diploma in Computer Engineering 💻</strong> i
 
 - 🔭 I’m currently working on **React.js, Next.js, TypeScript**  
 - 🌱 Currently learning **MySQL**  
-- 👯 Looking to collaborate on **Open Source Projects**  
+- 👯  I’m looking to collaborate on GitHub**  
 - 💬 Ask me about: **Express.js, TypeScript, Next.js**  
 - 📫 How to reach me: **roytopan734@gmail.com**  
-- ⚡ Fun fact: I love coding and cricket — sometimes I hit bugs, sometimes I hit sixes... and sometimes I bowl both! 🏏💻
 
----
 
-<h1 align="center">🛜 Let's Connect</h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/topanroy/">
-    <img src="Linkedin.png" height="50" />
-  </a>
-  &nbsp;
-  <a href="https://www.facebook.com/TopanRoy41105/">
-    <img src="Facebook.png" height="50" />
-  </a>
- 
-</p>
-
----
 
 ### 📞 Contact Me
 
