@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello👋%2C+I'm+Topan+Roy...;A+MERN+%26+PREN+stack+developer...;I+am+Full+stack+developer..)](https://git.io/typing-svg)
 
 <a href="https://www.facebook.com/TopanRoy41105/">
-  <img src="images/banner.png" width="100%" height="100%" />
+  <img src="banner.png" width="100%" height="100%" />
 </a>
 
 <h1 align="center"> About Me </h1>
@@ -13,20 +13,7 @@ I have a strong passion for learning and implementing new web technologies.
 I’m currently studying <strong>Diploma in Computer Engineering 💻</strong> in Dinajpur, Bangladesh.
 </h4>
 
----
 
-<h1 align="center">⚡ GitHub Stats</h1>
-
-<p align="center">
-  <img width="47%" src="https://streak-stats.demolab.com/?user=topanroy&theme=react&border=61dafb&hide_border=true" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=topanroy&show_icons=true&locale=en&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=topanroy&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 <h1 align="center">🚀 Tech Stack</h1>
 
@@ -69,20 +56,25 @@ I’m currently studying <strong>Diploma in Computer Engineering 💻</strong> i
 
 <p align="center">
   <a href="https://www.linkedin.com/in/topanroy/">
-    <img src="images/icons/Linkedin.png" height="50" />
+    <img src="Linkedin.png" height="50" />
   </a>
   &nbsp;
   <a href="https://www.facebook.com/TopanRoy41105/">
-    <img src="images/icons/Facebook.png" height="50" />
+    <img src="Facebook.png" height="50" />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/topan_roy41105/?igsh=dWdpYmUxcDNuZnhz#">
-    <img src="images/icons/Instagram.png" height="50" />
+    <img src="Instagram.png" height="50" />
   </a>
 </p>
 
 ---
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=topanroy&theme=react"/>
-</div>
+### 📞 Contact Me
+
+- 📧 **Email:** roytopan734@gmail.com  
+- 🌐 **Portfolio (Coming Soon)**
+
+---
+
+<p align="center">Thanks for visiting! 😊</p>
