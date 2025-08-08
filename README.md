@@ -50,7 +50,10 @@ Currently, I’m studying **Diploma in Computer Engineering 💻** in **Dinajpur
   <a href="https://www.facebook.com/TopanRoy41105/">
     <img src="Facebook.png" height="50" />
   </a>
- 
+  &nbsp;
+  <a href="https://www.instagram.com/topan_roy41105/#">
+    <img src="Twitter.png" height="50" />
+  </a>
 </p>
 
 ---
