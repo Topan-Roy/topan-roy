@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello👋%2C+I'm+Topan+Roy...;A+MERN+%26+PREN+stack+developer...;I+am+Full+stack+developer..)](https://git.io/typing-svg)
 
 <a href="https://www.facebook.com/TopanRoy41105/">
-<img src="https://i.ibb.co.com/vxbLPQ4S/IMG-20230528-230617-100.jpg" width="100%" height="100%" />
+<img src="https://i.ibb.co.com/JR46XYMY/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" width="100%" height="100%" />
 </a>
 
 <h1 align="center"> About Me </h1>
