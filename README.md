@@ -15,6 +15,30 @@ Currently, I’m studying **Diploma in Computer Engineering 💻** in **Dinajpur
 </h4>
 
 ---
+<h1 align="center">⚡ My GitHub Stats</h1>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+    <img align="left" width="390" src="https://streak-stats.demolab.com/?user=topan-roy&theme=react&border=61dafb&hide_border=true" alt="Topan's streak stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=topan-roy&show_icons=true&locale=en&theme=tokyonight" alt="Topan's GitHub stats" />
+  </a>
+</p>
+
+<br><br><br><br><br><br><br><br><br>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=topan-roy&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top languages" />
+  </a>
+</div>
+
+
+
+
 
  <h1  align="center"> 🛜 Socials  </h1>
 
