@@ -91,7 +91,7 @@ Currently, I’m studying **Diploma in Computer Engineering 💻** in **Dinajpur
 - 👯  I’m looking to collaborate on GitHub**  
 - 💬 Ask me about: **Express.js, TypeScript, Next.js**  
 - 📫 How to reach me: **roytopan734@gmail.com**  
-
+-💥 Fun fact: I treat every bug like a villain in a superhero movie.
 
 
 
