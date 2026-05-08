@@ -7,10 +7,10 @@
 <h1 align="center"> About Me </h1>
 
 <h4 align="center">
-Hello 👋, I’m **Topan Roy** 😊  
-I love building things with **JavaScript** and I’m skilled in the **MERN Stack** (MongoDB, Express, React, Node.js).  
-I have a strong passion for learning and applying modern web technologies and industry standards.  
-Currently, I’m studying **Diploma in Computer Engineering 💻** in **Dinajpur, Bangladesh**.
+🌟 Full-stack & React Native Developer  
+Focused on developing scalable web applications and high-performance cross-platform mobile apps using the MERN Stack and React Native 🚀  
+Passionate about modern software development, clean architecture, and continuously improving technical and problem-solving skills 💻  
+Driven by curiosity, innovation, and the goal of growing into a highly skilled Software Engineer ✨
 
 </h4>
 
