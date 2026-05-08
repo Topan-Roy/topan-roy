@@ -7,7 +7,8 @@
 <h1 align="center"> About Me </h1>
 
 <h4 align="center">
-🌟 Full-stack & React Native Developer  
+🌟 Full-stack & React Native Developer  </br>
+  
 Focused on developing scalable web applications and high-performance cross-platform mobile apps using the MERN Stack and React Native 🚀  
 Passionate about modern software development, clean architecture, and continuously improving technical and problem-solving skills 💻  
 Driven by curiosity, innovation, and the goal of growing into a highly skilled Software Engineer ✨
