@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello👋%2C+I'm+Topan+Roy...;A+MERN+%26+PREN+stack+developer...;I+am+Full+stack+developer..)](https://git.io/typing-svg)
 
 <a href="https://www.facebook.com/TopanRoy41105/">
-<img src="https://i.ibb.co.com/LdvJKQVf/Chat-GPT-Image-Jul-5-2026-02-39-25-AM.png" width="100%" height="100%" />
+<img src="https://i.ibb.co.com/4n1r3bzw/banner.png" width="100%" height="100%" />
 </a>
 
 <h1 align="center"> About Me </h1>
@@ -98,7 +98,7 @@ Driven by curiosity, innovation, and the goal of growing into a highly skilled S
 ### 📞 Contact Me
 
 - 📧 **Email:** roytopan734@gmail.com  
-- 🌐 **Portfolio** https://my-portfolio-six-zeta-93.vercel.app/
+- 🌐 **Portfolio** [https://my-portfolio-six-zeta-93.vercel.app/](https://my-portfolio-1-sandy-delta.vercel.app/)
 ---
 
 <p align="center">Thanks for visiting! 😊</p>
