@@ -98,7 +98,7 @@ Driven by curiosity, innovation, and the goal of growing into a highly skilled S
 ### 📞 Contact Me
 
 - 📧 **Email:** roytopan734@gmail.com  
-- 🌐 **Portfolio** [https://my-portfolio-six-zeta-93.vercel.app/](https://my-portfolio-1-sandy-delta.vercel.app/)
+- 🌐 **Portfolio** (https://my-portfolio-1-sandy-delta.vercel.app/)
 ---
 
 <p align="center">Thanks for visiting! 😊</p>
