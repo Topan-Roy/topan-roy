@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello👋%2C+I'm+Topan+Roy...;A+MERN+%26+PREN+stack+developer...;I+am+Full+stack+developer..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hello+%F0%9F%91%8B+I'm+Topan+Roy;Full+Stack+MERN+Developer;React+Native+Developer;Building+Scalable+Web+%26+Mobile+Apps;Open+to+Full-Time+Opportunities)](https://git.io/typing-svg)
 
 <a href="https://www.facebook.com/TopanRoy41105/">
 <img src="https://i.ibb.co.com/4n1r3bzw/banner.png" width="100%" height="100%" />
